@@ -2,7 +2,7 @@ import React from 'react'
 
 function Untitled() {
   return (
-    <div>Bé tùng  số 1</div>
+    <div>a á ớ bờ cờ dờ đờ</div>
     
 
   )
